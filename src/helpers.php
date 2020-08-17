@@ -1,5 +1,5 @@
 <?php
-  namespace Onlyno2\Fixer;
+  namespace Onlyno2;
 
   use PhpCsFixer\Config;
   use PhpCsFixer\Finder;
