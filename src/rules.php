@@ -2,7 +2,6 @@
   return [
     'psr0' => false,
     '@PSR2' => true,
-    'array_syntax' => 'short',
     'blank_line_after_namespace' => true,
     'braces' => true,
     'class_definition' => true,
