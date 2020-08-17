@@ -1,0 +1,20 @@
+{
+  "name": "onlyno2/php-style-example",
+  "description": "Onlyno2's shared PHP style rules for PHP-CS-Fixer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "onlyno2",
+      "email": "kiennd010498@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">= 7.0",
+    "friendsofphp/php-cs-fixer": "^2.16"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  }
+}
